@@ -1,0 +1,2637 @@
+@media only screen and (min-width:2048px) {}
+
+@media only screen and (min-width:1600px) and (max-width:2047px) {
+
+}
+
+@media only screen and (min-width:1440px) and (max-width:1599px) {
+
+	
+}
+
+@media only screen and (min-width:1246px) and (max-width:1439px) {
+
+	
+
+}
+
+
+@media only screen and (min-width:1171px) and (max-width:1245px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+/***************************
+	Home Page start
+*****************************/
+	
+/******** top header start here****************/
+.top_header .top_header_left ul li p {
+    padding-right: 47px;
+}		
+	
+/******** top header End here****************/	
+	
+/******** Nav header css start here****************/		
+	#header {
+	margin-left: 8px !important;
+}
+/******** Nav header css End here****************/	
+/***************************
+	Home Page End
+*****************************/	
+}
+@media only screen and (min-width:960px) and (max-width:1170px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	
+/***************************
+	Home Page start
+*****************************/
+	
+/******** top header start here****************/
+.top_header .top_header_left ul li p {
+    display: none;
+}		
+.top_header .top_header_left ul li .top_header_icon {
+	margin-right: 30px;
+}	
+/******** top header End here****************/	
+	
+/******** Nav header css start here****************/
+.manu_header .manu_header_inner .logo {
+	width: 270px;
+}
+	#header {
+	margin-left: 8px !important;
+}
+#header .navMenu ul {
+	padding: 14px 0px 0 0 !important;
+}	
+	
+#header .navMenu ul li a {
+	padding: 0 25px 10px !important;
+}	
+#header .navMenu ul li a::before {
+	margin: -15px 0 0 !important;
+}	
+	
+/******** Nav header css End here****************/	
+	
+/******** Banner css start here****************/	
+h3.banner_home_heading span {
+	font-size: 40px;
+	line-height: 45px;
+}
+.banner_home img {
+	width: 1700px;
+	margin: 0 0 0 -850px;
+}	
+h3.banner_home_heading span strong {
+	line-height: 50px;
+}
+h3.banner_home_heading {
+	font-size: 25px;
+}	
+	
+/******** Banner css End here****************/		
+	
+/******** heading css start here****************/	
+h3.heading_center {
+	font-size: 40px;
+}
+h3.heading_left span {
+	font-size: 40px;
+	line-height: 40px;
+}	
+/******** heading css End here****************/		
+	
+/******** strip css start here****************/
+.strip .strip_left h3 {
+	font-size: 30px;
+	line-height: 35px;
+}
+.strip .strip_right li .strip_phon {
+	height: 50px;
+	width: 50px;
+}	
+.strip .strip_right li h4 {
+	font-size: 30px;
+}	
+/******** strip css End here****************/	
+	
+/**********   About section  css start **********/
+.about .about_strong {
+	width: 58%;
+	padding-top: 10%;
+}	
+	
+/**********   About section  css End **********/
+	
+	
+/********** employment section  css Start **********/
+.employment {
+	height: 530px;
+}
+	
+/**********   employment section  css End **********/	
+	
+/**********   footer section  css start **********/	
+.footer {
+    padding: 60px 0;
+}	
+.footer ul li .footer_logo {
+    width: 188px;
+    height: 37px;
+    overflow: hidden;
+}	
+.footer ul li .card_dtls {
+	width: 347px;
+	height: 45px;
+	margin: auto;
+}	
+.footer ul li .social_sec ul {
+	padding-top: 10px;
+}	
+.footer ul li .footer_end_text p {
+    text-align: center;
+}
+.footer ul li:first-child {
+	margin-right: 44px;
+}	
+.footer ul li:last-child {
+	width: 25%;
+}	
+.footer ul li ul li:last-child {
+	width: auto;
+}
+.footer ul li {
+	width: 19%;
+}	
+.footer ul li .social_sec li {
+	width: 26px !important;
+	height: 26px !important;
+}	
+.footer ul li .social_sec li i {
+	padding: 7px;
+	font-size: 13px;
+	color: #fff;
+}	
+.footer_bottom h4 {
+	font-size: 13px;
+}	
+/**********   footer section  css End **********/	
+	
+/***************************
+	Home Page End
+*****************************/	
+	
+/***************************
+	services Page start
+*****************************/		
+/******** Banner css start here****************/	
+	
+.banner_home .caption.ceter h3 {
+	font-size: 40px;
+}
+	
+/******** Banner css End here****************/	
+	
+/******** services css start here****************/		
+.servic h5 {
+	font-size: 15px;
+}
+/******** services css End here****************/			
+/***************************
+	services Page End
+*****************************/		
+	
+	
+/***************************
+	About Page start
+*****************************/		
+.about_sec {
+	padding: 60px 0;
+}
+	
+.about_bottom {
+	height: auto;
+}	
+.about_bottom p {
+	padding: 60px 0;
+}	
+	
+/***************************
+	About Page End
+*****************************/	
+	
+/***************************
+	Employment Page start
+*****************************/	
+.employment_bottom p {
+	padding: 100px 0;
+	width: auto;
+	margin: 0 auto;
+}	
+.employment_bottom {
+	height: auto;
+}	
+/***************************
+	Employment Page End
+*****************************/		
+	
+/***************************
+	contact us Page start
+*****************************/	
+.contact_us_box_right h3 {
+	font-size: 28px;
+}
+	
+/***************************
+	contact us Page End
+*****************************/	
+	
+}
+
+@media only screen and (min-width:769px) and (max-width:959px) {
+ .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	
+/***************************
+	Home Page start
+*****************************/
+	
+/******** top header start here****************/
+	
+.top_header {
+	padding: 20px 0 0 0;
+	overflow: hidden;
+}	
+.top_header .wrapper {
+	padding-bottom: 20px;
+}	
+	
+.top_header .top_header_left ul li p {
+    display: none;
+}		
+.top_header .top_header_left ul li .top_header_icon {
+	margin-right: 30px;
+}
+.top_header .top_header_left ul li .top_header_icon {
+	width: 20px;
+	height: 20px;
+	margin-right: 0;
+}	
+	
+.top_header .top_header_right ul li a {
+	background: #bd055c;
+	padding: 8px 16px;
+	overflow: hidden;
+	font-size: 18px;
+}
+.top_header .top_header_right ul li a .phon_icon {
+	background: #38619c;
+	float: left;
+	width: 25px;
+	height: 26px;
+	padding: 7px 16px;
+	display: block;
+	margin-top: -8px;
+	border-radius: 5px 0 0 5px;
+}	
+	
+.top_header .top_header_left ul li {
+	margin-right: 17px;
+}	
+.top_header .top_header_left ul li {
+	margin-right: 17px;
+}
+.top_header .top_header_left ul li::after {
+	content: "";
+	background: #d8d8d8;
+	height: 20px;
+	width: 1px;
+	position: absolute;
+	right: 0;
+	display: none;
+}	
+	
+/******** top header End here****************/	
+	
+/******** Nav header css start here****************/
+	
+.manu_header {
+	padding: 20px 0;
+	position: relative;
+}	
+.manu_header .manu_header_inner .logo {
+	width: 270px;
+}
+	#header {
+	margin-left: 8px !important;
+}
+#header .navMenu ul {
+	padding: 14px 0px 0 0 !important;
+}	
+	
+#header .navMenu ul li a {
+	padding: 0 25px 10px !important;
+}	
+#header .navMenu ul li a::before {
+	margin: -15px 0 0 !important;
+}	
+.manu_header .manu_header_inner .heder_right {
+	width: 57%;
+	float: left;
+}
+	
+#header {
+	padding: 5px 0 0 !important;
+	float: right;
+}	
+/******** Nav header css End here****************/	
+	
+/******** Banner css start here****************/	
+h3.banner_home_heading span {
+	font-size: 35px;
+	line-height: 35px;
+}
+.banner_home img {
+	width: 1300px;
+	margin: 0 0 0 -630px;
+}	
+h3.banner_home_heading span strong {
+	line-height: 50px;
+}
+h3.banner_home_heading {
+	font-size: 25px;
+}	
+.captionBox {
+	top: 17%;
+}	
+/******** Banner css End here****************/		
+	
+/******** heading css start here****************/	
+h3.heading_center {
+	font-size: 35px;
+}
+h3.heading_left span {
+	font-size: 35px;
+	line-height: 35px;
+}	
+/******** heading css End here****************/		
+	
+/******** Service css start here****************/	
+.servic .service_details ul li {
+	width: 18%;
+	flex: 0 0 24%;
+	height: 187px;
+}
+.servic p {
+	font-size: 16px;
+	line-height: 25px;
+	height: auto;
+	padding-top: 10px;
+}	
+.servic .service_details {
+	padding-top: 30px;
+}	
+.servic h5 strong {
+	display: inline;
+}	
+/******** Service css End here****************/	
+	
+	
+	
+	
+/******** strip css start here****************/
+.strip .strip_left h3 {
+	font-size: 25px;
+	line-height: 30px;
+}
+.strip .strip_right li .strip_phon {
+	height: 50px;
+	width: 50px;
+}	
+.strip .strip_right li h4 {
+	font-size: 25px;
+}	
+/******** strip css End here****************/	
+	
+/**********   About section  css start **********/
+.about .about_strong {
+	width: 58%;
+	padding-top: 5%;
+}	
+	
+/**********   About section  css End **********/
+	
+	
+/********** employment section  css Start **********/
+.employment {
+	height: 530px;
+}
+.employment .employment_text p {
+	font-size: 16px;
+	color: #161616;
+	padding: 10px 0;
+	line-height: 30px;
+}
+	
+.employment .employment_text p strong {
+	padding-top: 5px;
+}	
+/**********   employment section  css End **********/
+	
+	
+/***********************client section  css start***********************/	
+	
+.client #slider_3 li .partners_pic img {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+	
+/***********************client section  css End***********************/	
+	
+	
+/**********   footer section  css start **********/	
+	
+.footer {
+    padding: 60px 0;
+}	
+	
+.footer ul {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+}	
+.footer ul li {
+	margin-bottom: 30px;
+	width: 100%;
+}	
+.footer ul li:last-child{
+	margin-bottom: 0;
+}	
+.footer ul li ul {
+	padding-top: 8px;
+}	
+.footer ul li ul li {
+	padding: 10px 0;
+	margin-bottom: 0;
+	width: 100%;
+}
+.footer ul li .social_sec ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+}	
+.footer ul li .footer_end_text {
+	justify-content: flex-end;
+	padding-top: 0;
+}
+.footer ul li .footer_end_text p {
+	text-align: left;
+}		
+.footer ul li .social_sec{
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+}
+.footer ul li:last-child {
+	margin-bottom: 0;
+	width: 100%;
+}	
+.footer ul li h4 {
+	font-size: 30px;
+	margin-bottom: 10px;
+}	
+/**********   footer section  css End **********/		
+/***************************
+	Home Page End
+*****************************/		
+/***************************
+	services Page start
+*****************************/		
+/******** Banner css start here****************/	
+	
+.banner_home .caption.ceter h3 {
+	font-size: 40px;
+}
+	
+/******** Banner css End here****************/	
+	
+/******** services css start here****************/		
+.servic h5 {
+	font-size: 15px;
+}
+/******** services css End here****************/			
+/***************************
+	services Page End
+*****************************/	
+	
+/***************************
+	About Page start
+*****************************/		
+.about_sec {
+	padding: 60px 0;
+}
+	
+.about_bottom {
+	height: auto;
+}	
+.about_bottom p {
+	padding: 60px 0;
+	font-size: 16px;
+}	
+	
+/***************************
+	About Page End
+*****************************/		
+	
+/***************************
+	Employment Page start
+*****************************/	
+.employment_bottom p {
+	padding: 60px 0;
+	width: auto;
+	margin: 0 auto;
+}	
+.employment_bottom {
+	height: auto;
+}	
+/***************************
+	Employment Page End
+*****************************/		
+/***************************
+	contact us Page start
+*****************************/	
+.contact_us_box_right h3 {
+	font-size: 28px;
+}
+.contact_us_box {
+	flex-direction: column;
+	padding: 30px;
+}	
+	
+.contact_us_box_left {
+	width: auto;
+	position: relative;
+}	
+	
+.contact_us_box_right {
+	width: 100%;
+	margin-left: 0;
+	margin-top: 20px;
+}	
+	
+.contact_us_box_left::after {
+	display: none;
+}
+	
+.map iframe {
+	width: 100%;
+	height: 250px;
+	vertical-align: bottom;
+	border: none;
+}		
+/***************************
+	contact us Page End
+*****************************/			
+	
+}
+
+@media only screen and (min-width:641px) and (max-width:768px) {
+
+	
+ .wrapper {
+   width: auto;
+   padding: 0 10px;
+  }
+	
+/******** top header start here****************/
+	
+.top_header {
+	padding: 20px 0 0 0;
+	overflow: hidden;
+}	
+.top_header .wrapper {
+	padding-bottom: 20px;
+}	
+	
+.top_header .top_header_left ul li p {
+    display: none;
+}		
+.top_header .top_header_left ul li .top_header_icon {
+	margin-right: 30px;
+}
+.top_header .top_header_left ul li .top_header_icon {
+	width: 20px;
+	height: 20px;
+	margin-right: 0;
+}	
+	
+.top_header .top_header_right ul li a {
+	background: #bd055c;
+	padding: 8px 16px;
+	overflow: hidden;
+	font-size: 18px;
+}
+.top_header .top_header_right ul li a .phon_icon {
+	background: #38619c;
+	float: left;
+	width: 25px;
+	height: 26px;
+	padding: 7px 16px;
+	display: block;
+	margin-top: -8px;
+	border-radius: 5px 0 0 5px;
+}	
+	
+.top_header .top_header_left ul li {
+	margin-right: 17px;
+}	
+.top_header .top_header_left ul li {
+	margin-right: 17px;
+}
+.top_header .top_header_left ul li::after {
+	content: "";
+	background: #d8d8d8;
+	height: 20px;
+	width: 1px;
+	position: absolute;
+	right: 0;
+	display: none;
+}	
+	
+/******** top header End here****************/	
+	
+/******** Nav header css start here****************/
+	
+.manu_header {
+	padding: 20px 0;
+	position: relative;
+}	
+.manu_header .manu_header_inner .logo {
+	width: 270px;
+}
+	#header {
+	margin-left: 8px !important;
+}
+#header .navMenu ul {
+	padding: 14px 0px 0 0 !important;
+}	
+	
+#header .navMenu ul li a {
+	padding: 0 25px 10px !important;
+}	
+#header .navMenu ul li a::before {
+	margin: -15px 0 0 !important;
+}	
+.manu_header .manu_header_inner .heder_right {
+	width: 48%;
+	float: left;
+}
+	
+#header {
+	padding:0 !important;
+	float: right;
+}
+.log {
+	padding: 9px 24px;
+	font-size: 14px;
+}		
+	
+/******** Nav header css End here****************/	
+	
+/******** Banner css start here****************/	
+h3.banner_home_heading span {
+	font-size: 30px;
+	line-height: 26px;
+}
+.banner_home img {
+	width: 1000px;
+	margin: 0 0 0 -441px;
+}
+h3.banner_home_heading span strong {
+	line-height: 50px;
+}
+h3.banner_home_heading {
+	font-size: 25px;
+}	
+.captionBox {
+	top: 7%;
+}	
+.banner_home .caption {
+	padding: 0;
+	margin: 0;
+	width: auto;
+}	
+h3.banner_home_heading {
+	padding-bottom: 10px;
+}
+	
+.banner_buttom {
+	padding: 9px 24px;
+	font-size: 14px;
+}	
+/******** Banner css End here****************/		
+	
+/******** heading css start here****************/	
+h3.heading_center {
+	font-size: 30px;
+}
+h3.heading_left span {
+	font-size: 35px;
+	line-height: 35px;
+}	
+/******** heading css End here****************/		
+	
+/******** Service css start here****************/	
+	
+.servic {
+	padding: 40px 0;
+}
+.servic .service_details {
+	padding-top: 20px;
+}
+.servic .service_details ul li {
+	width: 39%;
+	flex: 0 0 31.4%;
+	height: 187px;
+	margin-right: 10px;
+}
+.servic p {
+	font-size: 14px;
+	line-height: 25px;
+	height: auto;
+	padding-top: 10px;
+}
+.servic .service_details ul {
+	justify-content: flex-start;
+}	
+.servic p strong {
+	padding-top: 10px;
+}	
+/******** Service css End here****************/	
+	
+	
+	
+	
+/******** strip css start here****************/
+.strip .strip_left h3 {
+	font-size: 20px;
+	line-height: 30px;
+}
+.strip .strip_right li .strip_phon {
+	height: 40px;
+	width: 40px;
+}	
+.strip .strip_right li h4 {
+	font-size: 25px;
+}
+.strip .strip_right li {
+	margin-right: 20px;
+}	
+	
+/******** strip css End here****************/	
+	
+/**********   About section  css start **********/
+.about .about_strong {
+	width: 58%;
+	padding-top: 5%;
+}	
+.about .about_strong {
+	width: auto;
+	padding-top: 0;
+}
+	
+.about {
+	background: #f2f4f3 url("../images/brightencommunications_about_pic.png") no-repeat 100% 100% !important;
+	height: auto;
+	width: 100%;
+	background-image: none !important;
+	padding: 40px 0;
+}	
+.about .about_strong p {
+	font-size: 16px;
+	line-height: 30px;
+	padding: 8px 0;
+}	
+	
+/**********   About section  css End **********/
+	
+	
+/********** employment section  css Start **********/
+.employment {
+	height: auto;
+	padding: 40px 0;
+	margin-bottom: 0;
+}
+.employment .wrapper {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+	
+.employment .employment_text p {
+	font-size: 16px;
+	color: #161616;
+	padding: 10px 0;
+	line-height: 30px;
+}
+	
+.employment .employment_text p strong {
+	padding-top: 5px;
+}	
+.employment .employment_pic {
+	width: 354px;
+	height: 578px;
+	flex: 0 0 42%;
+	margin-right: 0;
+	margin-top: 27px;
+}	
+	
+/**********   employment section  css End **********/
+	
+	
+/***********************client section  css start***********************/	
+.client {
+	padding: 40px 0;
+}	
+.client #slider_3 li .partners_pic img {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+	
+/***********************client section  css End***********************/	
+	
+	
+/**********   footer section  css start **********/	
+	
+.footer {
+    padding: 60px 0;
+}	
+	
+.footer ul {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+}	
+.footer ul li {
+	margin-bottom: 30px;
+	width: 100%;
+}	
+.footer ul li:last-child{
+	margin-bottom: 0;
+}	
+.footer ul li ul {
+	padding-top: 8px;
+}	
+.footer ul li ul li {
+	padding: 10px 0;
+	margin-bottom: 0;
+	width: 100%;
+}
+.footer ul li .social_sec ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+}	
+.footer ul li .footer_end_text {
+	justify-content: flex-end;
+	padding-top: 0;
+}
+.footer ul li .footer_end_text p {
+	text-align: left;
+}		
+.footer ul li .social_sec{
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+}
+.footer ul li:last-child {
+	margin-bottom: 0;
+	width: 100%;
+}	
+.footer ul li h4 {
+	font-size: 30px;
+	margin-bottom: 10px;
+}	
+/**********   footer section  css End **********/		
+/***************************
+	Home Page End
+*****************************/	
+/***************************
+	services Page start
+*****************************/		
+/******** Banner css start here****************/	
+	
+.banner_home .caption.ceter h3 {
+	font-size: 30px;
+}
+	
+/******** Banner css End here****************/	
+	
+/******** services css start here****************/		
+.servic h5 {
+	font-size: 15px;
+}
+	
+.servic h5 strong{
+	display: inline-block;
+}	
+/******** services css End here****************/			
+/***************************
+	services Page End
+*****************************/	
+/***************************
+	About Page start
+*****************************/		
+.about_sec {
+	padding: 60px 0;
+}
+.about_sec .wrapper {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+.about_sec .about_sec_pic {
+	width: 440px;
+	height: 500px;
+	flex: auto;
+	margin-right: 0;
+	overflow: hidden;
+	padding: 29px;
+	position: relative;
+	z-index: 999;
+	margin-top: 40px;
+}	
+	
+.about_bottom {
+	height: auto;
+}	
+.about_bottom p {
+	padding: 60px 0;
+	font-size: 16px;
+}	
+	
+/***************************
+	About Page End
+*****************************/	
+	
+/***************************
+	Employment Page start
+*****************************/	
+.employment_bottom p {
+	padding: 60px 0;
+	width: auto;
+	margin: 0 auto;
+	font-size: 16px;
+}	
+.employment_bottom {
+	height: auto;
+}
+	
+.employment_top .wrapper {
+	flex-direction: column-reverse;
+	align-items: flex-start;
+}
+/***************************
+	Employment Page End
+*****************************/	
+	
+/***************************
+	contact us Page start
+*****************************/	
+.contact_us_box_right h3 {
+	font-size: 28px;
+}
+.contact_us_box {
+	flex-direction: column;
+	padding: 14px;
+}
+	
+.contact_us_box_left {
+	width: auto;
+	position: relative;
+}	
+	
+.contact_us_box_right {
+	width: 100%;
+	margin-left: 0;
+	margin-top: 20px;
+}	
+	
+.contact_us_box_left::after {
+	display: none;
+}
+.map iframe {
+	width: 100%;
+	height: 250px;
+	vertical-align: bottom;
+	border: none;
+}		
+/***************************
+	contact us Page End
+*****************************/			
+	
+}
+
+@media only screen and (min-width:481px) and (max-width:640px) {
+     .wrapper {
+   width: auto;
+   padding: 0 10px;
+  }
+	
+/******** top header start here****************/
+	
+.top_header {
+	padding: 20px 0 0 0;
+	overflow: hidden;
+}	
+.top_header .wrapper {
+	padding-bottom: 20px;
+}	
+	
+.top_header .top_header_left ul li p {
+    display: none;
+}		
+.top_header .top_header_left ul li .top_header_icon {
+	margin-right: 30px;
+}
+.top_header .top_header_left ul li .top_header_icon {
+	width: 20px;
+	height: 20px;
+	margin-right: 0;
+}	
+	
+.top_header .top_header_right ul li a {
+	background: #bd055c;
+	padding: 8px 16px;
+	overflow: hidden;
+	font-size: 18px;
+}
+.top_header .top_header_right ul li a .phon_icon {
+	background: #38619c;
+	float: left;
+	width: 25px;
+	height: 26px;
+	padding: 7px 16px;
+	display: block;
+	margin-top: -8px;
+	border-radius: 5px 0 0 5px;
+}	
+	
+.top_header .top_header_left ul li {
+	margin-right: 17px;
+}	
+.top_header .top_header_left ul li {
+	margin-right: 17px;
+}
+.top_header .top_header_left ul li::after {
+	content: "";
+	background: #d8d8d8;
+	height: 20px;
+	width: 1px;
+	position: absolute;
+	right: 0;
+	display: none;
+}	
+	
+/******** top header End here****************/	
+	
+/******** Nav header css start here****************/
+	
+.manu_header {
+	padding: 20px 0;
+	position: relative;
+}	
+.manu_header .manu_header_inner .logo {
+	width: 270px;
+}
+	#header {
+	margin-left: 8px !important;
+}
+#header .navMenu ul {
+	padding: 14px 0px 0 0 !important;
+}	
+	
+#header .navMenu ul li a {
+	padding: 0 25px 10px !important;
+}	
+#header .navMenu ul li a::before {
+	margin: -15px 0 0 !important;
+}	
+.manu_header .manu_header_inner .heder_right {
+	width: 30%;
+	float: left;
+}
+	
+#header {
+	padding:0 !important;
+	float: right;
+}
+.log {
+	padding: 9px 24px;
+	font-size: 14px;
+}		
+	
+/******** Nav header css End here****************/	
+	
+/******** Banner css start here****************/	
+h3.banner_home_heading span {
+	font-size: 30px;
+	line-height: 26px;
+}
+.banner_home img {
+	width: 1000px;
+	margin: 0 0 0 -441px;
+}
+h3.banner_home_heading span strong {
+	line-height: 50px;
+}
+h3.banner_home_heading {
+	font-size: 25px;
+}	
+.captionBox {
+	top: 7%;
+}	
+.banner_home .caption {
+	padding: 0;
+	margin: 0;
+	width: auto;
+}	
+h3.banner_home_heading {
+	padding-bottom: 10px;
+}
+	
+.banner_buttom {
+	padding: 9px 24px;
+	font-size: 14px;
+}	
+/******** Banner css End here****************/		
+	
+/******** heading css start here****************/	
+h3.heading_center {
+	font-size: 30px;
+}
+h3.heading_left span {
+	font-size: 35px;
+	line-height: 35px;
+}	
+/******** heading css End here****************/		
+	
+/******** Service css start here****************/	
+	
+.servic {
+	padding: 40px 0;
+}
+.servic .service_details {
+	padding-top: 20px;
+}
+.servic .service_details ul li {
+	width: 41%;
+	flex: 0 0 47.4%;
+	height: 172px;
+	margin-right: 10px;
+}
+.servic p {
+	font-size: 14px;
+	line-height: 25px;
+	height: auto;
+	padding-top: 10px;
+}
+.servic .service_details ul {
+	justify-content: flex-start;
+}	
+.servic p strong {
+	padding-top: 10px;
+}	
+/******** Service css End here****************/	
+	
+	
+	
+	
+/******** strip css start here****************/
+.strip .strip_left h3 {
+	font-size: 26px;
+	line-height: 30px;
+	margin-bottom: 20px;
+}
+.strip .strip_right li .strip_phon {
+	height: 35px;
+	width: 35px;
+}	
+.strip .strip_right li h4 {
+	font-size: 35px;
+}
+.strip .strip_right li {
+	margin-right: 20px;
+}	
+.strip .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.strip .strip_right {
+	margin-left: 0;
+}	
+/******** strip css End here****************/	
+	
+/**********   About section  css start **********/
+.about .about_strong {
+	width: 58%;
+	padding-top: 5%;
+}	
+.about .about_strong {
+	width: auto;
+	padding-top: 0;
+}
+	
+.about {
+	background: #f2f4f3 url("../images/brightencommunications_about_pic.png") no-repeat 100% 100% !important;
+	height: auto;
+	width: 100%;
+	background-image: none !important;
+	padding: 40px 0;
+}	
+.about .about_strong p {
+	font-size: 16px;
+	line-height: 30px;
+	padding: 8px 0;
+}	
+	
+/**********   About section  css End **********/
+	
+	
+/********** employment section  css Start **********/
+.employment {
+	height: auto;
+	padding: 40px 0;
+	margin-bottom: 0;
+}
+.employment .wrapper {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+	
+.employment .employment_text p {
+	font-size: 16px;
+	color: #161616;
+	padding: 10px 0;
+	line-height: 30px;
+}
+	
+.employment .employment_text p strong {
+	padding-top: 5px;
+}	
+.employment .employment_pic {
+	width: 354px;
+	height: 578px;
+	flex: 0 0 42%;
+	margin-right: 0;
+	margin-top: 27px;
+}	
+	
+/**********   employment section  css End **********/
+	
+	
+/***********************client section  css start***********************/	
+.client {
+	padding: 40px 0;
+}	
+.client #slider_3 li .partners_pic img {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+	
+/***********************client section  css End***********************/	
+	
+	
+/**********   footer section  css start **********/	
+	
+.footer {
+    padding: 40px 0;
+}	
+	
+.footer ul {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+}
+.footer ul li:first-child {
+	margin-right: auto;
+}	
+	
+.footer ul li {
+	margin-bottom: 10px;
+	width: 100%;
+}
+.footer ul li:last-child{
+	margin-bottom: 0;
+}	
+.footer ul li ul {
+	padding-top: 8px;
+}	
+.footer ul li ul li {
+	padding: 10px 0;
+	margin-bottom: 0;
+	width: 100%;
+}
+.footer ul li .social_sec ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+}	
+.footer ul li .footer_end_text {
+	justify-content: flex-end;
+	padding-top: 0;
+}
+.footer ul li .footer_end_text p {
+	text-align: left;
+}		
+.footer ul li .social_sec{
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+}
+.footer ul li:last-child {
+	margin-bottom: 0;
+	width: 100%;
+}	
+.footer ul li h4 {
+	font-size: 30px;
+	margin-bottom: 10px;
+}	
+	
+.footer_bottom h4 {
+	font-size: 13px;
+}	
+/**********   footer section  css End **********/		
+/***************************
+	Home Page End
+*****************************/	
+/***************************
+	services Page start
+*****************************/		
+/******** Banner css start here****************/	
+	
+.banner_home .caption.ceter h3 {
+	font-size: 30px;
+}
+	
+/******** Banner css End here****************/	
+	
+/******** services css start here****************/		
+.servic h5 {
+	font-size: 15px;
+	line-height: 30px;
+}
+	
+.servic h5 strong{
+	display: inline-block;
+}	
+/******** services css End here****************/			
+/***************************
+	services Page End
+*****************************/	
+	
+/***************************
+	About Page start
+*****************************/		
+.about_sec {
+	padding: 40px 0;
+}
+.about_sec .wrapper {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+.about_sec .about_sec_pic {
+	width: auto;
+	height: auto;
+	flex: auto;
+	margin-right: 0;
+	overflow: hidden;
+	padding: 29px;
+	position: relative;
+	z-index: 999;
+	margin-top: 40px;
+}	
+	
+.about_bottom {
+	height: auto;
+}	
+.about_bottom p {
+	padding: 40px 0;
+	font-size: 16px;
+}	
+	
+/***************************
+	About Page End
+*****************************/		
+		
+/***************************
+	Employment Page start
+*****************************/	
+	
+.employment_top .wrapper {
+	flex-direction: column-reverse;
+	align-items: flex-start;
+}
+	
+.employment_top {
+	padding: 40px 0;
+	overflow: hidden;
+	background: #f6f6f6;
+}
+	
+.employment_top .employment_top_pic {
+	width: auto;
+	height: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	border-radius: 5px;
+	overflow: hidden;
+	margin-top: 30px;
+}	
+.employment_bottom p {
+	padding: 40px 0;
+	width: auto;
+	margin: 0 auto;
+	font-size: 16px;
+}	
+	
+.employment_bottom {
+	height: auto;
+}	
+/***************************
+	Employment Page End
+*****************************/		
+	
+/***************************
+	contact us Page start
+*****************************/	
+.contact_us_box_right h3 {
+	font-size: 28px;
+}
+.contact_us_box {
+	flex-direction: column;
+	padding: 14px;
+}
+	
+.contact_us_box_left {
+	width: auto;
+	position: relative;
+}	
+	
+.contact_us_box_right {
+	width: 100%;
+	margin-left: 0;
+	margin-top: 20px;
+}	
+	
+.contact_us_box_left::after {
+	display: none;
+}	
+	
+.contact_us_top {
+	padding: 40px 0;
+}
+	
+.map iframe {
+	width: 100%;
+	height: 190px;
+	vertical-align: bottom;
+	border: none;
+}	
+	
+.contact_us_box_left .capture img {
+	width: 100%;
+}	
+/***************************
+	contact us Page End
+*****************************/		
+	
+}
+
+@media only screen and (min-width:321px) and (max-width:480px) {
+ 
+		
+	 .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+/******** top header start here****************/
+	
+.top_header {
+	padding: 20px 0 0 0;
+	overflow: hidden;
+}	
+.top_header .wrapper {
+	padding-bottom: 20px;
+}	
+.top_header .top_header_left ul {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-top: -9px;
+}
+.top_header .top_header_left ul li {
+	margin-right: 7px;
+}	
+.top_header .top_header_left ul li p {
+    display: none;
+}		
+.top_header .top_header_left ul li .top_header_icon {
+	margin-right: 30px;
+}
+.top_header .top_header_left ul li .top_header_icon {
+	width: 20px;
+	height: 20px;
+	margin-right: 0;
+}	
+	
+.top_header .top_header_right ul li a {
+	padding: 8px 15px;
+	overflow: hidden;
+	font-size: 14px;
+}
+.top_header .top_header_right ul li a .phon_icon {
+	background: #38619c;
+	float: left;
+	width: 17px;
+	height: 18px;
+	padding: 8px 9px;
+	display: block;
+	margin-top: -8px;
+	border-radius: 5px 0 0 5px;
+}
+.top_header .top_header_left ul li::after {
+	content: "";
+	background: #d8d8d8;
+	height: 20px;
+	width: 1px;
+	position: absolute;
+	right: 0;
+	display: none;
+}	
+	
+/******** top header End here****************/	
+	
+/******** Nav header css start here****************/
+	
+.manu_header {
+	padding: 20px 0;
+	position: relative;
+}	
+.manu_header .manu_header_inner .logo {
+	width: auto;
+	float: none;
+	margin-bottom: 9px;
+}
+	#header {
+	margin-left: 8px !important;
+}
+#header .navMenu ul {
+	padding: 14px 0px 0 0 !important;
+}	
+	
+#header .navMenu ul li a {
+	padding: 0 25px 10px !important;
+}	
+#header .navMenu ul li a::before {
+	margin: -15px 0 0 !important;
+}	
+.manu_header .manu_header_inner .heder_right {
+	width: auto;
+	float: left;
+}
+	
+#header {
+	padding:0 !important;
+	float: right;
+}
+.log {
+	padding: 9px 24px;
+	font-size: 14px;
+}		
+.manu_header.scrolled {
+	padding-bottom: 20px;
+}	
+/******** Nav header css End here****************/	
+	
+/******** Banner css start here****************/	
+h3.banner_home_heading span {
+	font-size: 20px;
+	line-height: 24px;
+}
+.banner_home img {
+	width: 678px;
+	margin: 0 0 0 -331px;
+}
+h3.banner_home_heading span strong {
+	line-height: 20px;
+}
+.captionBox {
+	top: 15%;
+}
+.banner_home .caption {
+	padding: 0;
+	margin: 0;
+	width: auto;
+}	
+h3.banner_home_heading {
+	font-size: 14px;
+	padding-bottom: 10px;
+}
+	
+.banner_buttom {
+	padding: 7px 19px;
+	font-size: 14px;
+}	
+	
+.banner_home .caption .banner_icon {
+	width: 30px;
+	height: 30px;
+}	
+	
+/******** Banner css End here****************/		
+	
+/******** heading css start here****************/	
+h3.heading_center {
+	font-size: 20px;
+	padding-top: 26px;
+}
+h3.heading_left span {
+	font-size: 20px;
+	line-height: 26px;
+}	
+h3.heading_center::before {
+	width: 30px;
+	height: 30px;
+	background-size: 100%;
+}	
+
+h3.heading_left::before{
+	width: 30px;
+	height: 30px;
+	background-size: 100%;	
+}	
+h3.heading_left {
+	font-size: 14px;
+	padding-top: 20px;
+}	
+	
+	
+/******** heading css End here****************/		
+	
+/******** Service css start here****************/	
+	
+.servic {
+	padding: 40px 0;
+}
+.servic .service_details {
+	padding-top: 20px;
+}
+.servic .service_details ul li {
+	width: auto;
+	flex: 0 0 100%;
+	height: 172px;
+	margin-right: 10px;
+}
+.servic p {
+	font-size: 14px;
+	line-height: 27px;
+	height: auto;
+}
+.servic .service_details ul {
+	justify-content: flex-start;
+}	
+.servic .service_details ul li p {
+	height: 40px;
+}	
+/******** Service css End here****************/	
+	
+	
+	
+	
+/******** strip css start here****************/
+.strip .strip_left h3 {
+	font-size: 20px;
+	line-height: 26px;
+	margin-bottom: 20px;
+}
+.strip .strip_right li .strip_phon {
+	height: 30px;
+	width: 30px;
+}	
+.strip .strip_right li h4 {
+	font-size: 18px;
+}
+.strip .strip_right li {
+	margin-right: 20px;
+}	
+.strip .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.strip .strip_right {
+	margin-left: 0;
+}	
+/******** strip css End here****************/	
+	
+/**********   About section  css start **********/
+.about .about_strong {
+	width: 58%;
+	padding-top: 5%;
+}	
+.about .about_strong {
+	width: auto;
+	padding-top: 0;
+}
+	
+.about {
+	background: #f2f4f3 url("../images/brightencommunications_about_pic.png") no-repeat 100% 100% !important;
+	height: auto;
+	width: 100%;
+	background-image: none !important;
+	padding: 40px 0;
+}	
+.about .about_strong p {
+	font-size: 14px;
+	line-height: 27px;
+	padding: 5px 0;
+}
+/**********   About section  css End **********/
+	
+	
+/********** employment section  css Start **********/
+.employment {
+	height: auto;
+	padding: 40px 0;
+	margin-bottom: 0;
+}
+.employment .wrapper {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+	
+.employment .employment_text p {
+	font-size: 14px;
+	color: #161616;
+	padding: 6px 0;
+	line-height: 28px;
+}
+	
+.employment .employment_text p strong {
+	padding-top: 5px;
+}	
+	
+.employment .employment_pic {
+	width: auto;
+	height: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-top: 12px;
+}	
+/**********   employment section  css End **********/
+	
+	
+/***********************client section  css start***********************/	
+.client {
+	padding: 40px 0;
+}	
+.client #slider_3 li .partners_pic img {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+
+.client #slider_3 li .partners_pic .overlay h3 {
+	font-size: 14px;
+}	
+/***********************client section  css End***********************/	
+	
+	
+/**********   footer section  css start **********/	
+	
+.footer {
+    padding: 40px 0;
+}	
+	
+.footer ul {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+}
+.footer ul li:first-child {
+	margin-right: auto;
+}	
+	
+.footer ul li {
+	margin-bottom: 10px;
+	width: 100%;
+}
+.footer ul li:last-child{
+	margin-bottom: 0;
+}	
+.footer ul li ul {
+	padding-top: 8px;
+}	
+.footer ul li ul li {
+	padding: 10px 0;
+	margin-bottom: 0;
+	width: 100%;
+}
+.footer ul li .social_sec ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+}	
+.footer ul li .footer_end_text {
+	justify-content: flex-end;
+	padding-top: 0;
+}
+.footer ul li .footer_end_text p {
+	text-align: left;
+}		
+.footer ul li .social_sec{
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+}
+.footer ul li:last-child {
+	margin-bottom: 0;
+	width: 100%;
+}	
+.footer ul li h4 {
+	font-size: 20px;
+	margin-bottom: 0px;
+}	
+	
+.footer_bottom h4 {
+	font-size: 9px;
+}
+/**********   footer section  css End **********/		
+/***************************
+	Home Page End
+*****************************/	
+/***************************
+	services Page start
+*****************************/		
+/******** Banner css start here****************/	
+	
+.banner_home .caption.ceter h3 {
+	font-size: 20px;
+}
+.banner_home .captionBox.center {
+	top: 35%;
+}	
+/******** Banner css End here****************/	
+	
+/******** services css start here****************/		
+.servic h5 {
+	font-size: 14px;
+	line-height: 30px;
+}	
+.servic h5 strong{
+	display: inline-block;
+}	
+/******** services css End here****************/			
+/***************************
+	services Page End
+*****************************/
+/***************************
+	About Page start
+*****************************/		
+.about_sec {
+	padding: 40px 0;
+}
+.about_sec .wrapper {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+.about_sec .about_sec_pic {
+	width: auto;
+	height: auto;
+	flex: auto;
+	margin-right: 0;
+	overflow: hidden;
+	padding: 29px;
+	position: relative;
+	z-index: 999;
+	margin-top: 40px;
+}	
+	
+.about_bottom {
+	height: auto;
+}	
+.about_bottom p {
+	padding: 40px 0;
+	font-size: 14px;
+}	
+.about_sec .about_sec_text p {
+	padding: 7px 0 0 0;
+	color: #252525;
+	font-size: 14px;
+}	
+	
+	
+.about_sec .about_sec_pic {
+	padding: 19px;
+	margin-top: 20px;
+}
+	
+	
+/***************************
+	About Page End
+*****************************/	
+	
+/***************************
+	Employment Page start
+*****************************/	
+	
+.employment_top .wrapper {
+	flex-direction: column-reverse;
+	align-items: flex-start;
+}
+	
+.employment_top {
+	padding: 40px 0;
+	overflow: hidden;
+	background: #f6f6f6;
+}
+	
+.employment_top .employment_top_pic {
+	width: auto;
+	height: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	border-radius: 5px;
+	overflow: hidden;
+	margin-top: 30px;
+}	
+.employment_bottom p {
+	padding: 40px 0;
+	width: auto;
+	margin: 0 auto;
+	font-size: 16px;
+}	
+	
+.employment_bottom {
+	height: auto;
+}	
+	
+.employment_top .employment_top_text p {
+	padding: 10px 0 0 0;
+	font-size: 14px;
+	line-height: 30px;
+}	
+/***************************
+	Employment Page End
+*****************************/		
+/***************************
+	contact us Page start
+*****************************/	
+.contact_us_box_right h3 {
+	font-size: 28px;
+}
+.contact_us_box {
+	flex-direction: column;
+	padding: 14px;
+}
+	
+.contact_us_box_left {
+	width: auto;
+	position: relative;
+}	
+	
+.contact_us_box_right {
+	width: 100%;
+	margin-left: 0;
+	margin-top: 20px;
+}	
+	
+.contact_us_box_left::after {
+	display: none;
+}	
+	
+.contact_us_top {
+	padding: 40px 0;
+}	
+	
+.contact_us_box_right h3 {
+	font-size: 20px;
+}	
+	
+.contact_us_box_left ul li:nth-child(3) {
+	width: auto;
+	float: none;
+	margin-right: 0;
+}	
+.contact_us_box_left ul li:nth-child(4) {
+	width: auto;
+	float: none;
+	margin-right: 0;
+}		
+.contact_us_box_left ul li:nth-child(5) {
+	width: auto;
+	float: none;
+	margin-right: 0;
+}
+.contact_us_box_left ul li:nth-child(6) {
+	width: auto;
+	float: none;
+	margin-right: 0;
+}	
+	
+.map iframe {
+	width: 100%;
+	height: 150px;
+	vertical-align: bottom;
+	border: none;
+}
+.contact_us_box_left .capture img {
+	width: 100%;
+}	
+/***************************
+	contact us Page End
+*****************************/	
+}
+
+@media only screen and (max-width:320px) {
+		
+			
+	 .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+/******** top header start here****************/
+	
+.top_header {
+	padding: 20px 0 0 0;
+	overflow: hidden;
+}	
+.top_header .wrapper {
+	padding-bottom: 20px;
+}	
+.top_header .top_header_left ul {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-top: -9px;
+}
+.top_header .top_header_left ul li {
+	margin-right: 7px;
+}	
+.top_header .top_header_left ul li p {
+    display: none;
+}		
+.top_header .top_header_left ul li .top_header_icon {
+	margin-right: 30px;
+}
+.top_header .top_header_left ul li .top_header_icon {
+	width: 20px;
+	height: 20px;
+	margin-right: 0;
+}	
+	
+.top_header .top_header_right ul li a {
+	padding: 8px 15px;
+	overflow: hidden;
+	font-size: 14px;
+}
+.top_header .top_header_right ul li a .phon_icon {
+	background: #38619c;
+	float: left;
+	width: 17px;
+	height: 18px;
+	padding: 8px 9px;
+	display: block;
+	margin-top: -8px;
+	border-radius: 5px 0 0 5px;
+}
+.top_header .top_header_left ul li::after {
+	content: "";
+	background: #d8d8d8;
+	height: 20px;
+	width: 1px;
+	position: absolute;
+	right: 0;
+	display: none;
+}	
+	
+/******** top header End here****************/	
+	
+/******** Nav header css start here****************/
+	
+.manu_header {
+	padding: 20px 0;
+	position: relative;
+}	
+.manu_header .manu_header_inner .logo {
+	width: auto;
+	float: none;
+	margin-bottom: 9px;
+}
+	#header {
+	margin-left: 8px !important;
+}
+#header .navMenu ul {
+	padding: 14px 0px 0 0 !important;
+}	
+	
+#header .navMenu ul li a {
+	padding: 0 25px 10px !important;
+}	
+#header .navMenu ul li a::before {
+	margin: -15px 0 0 !important;
+}	
+.manu_header .manu_header_inner .heder_right {
+	width: auto;
+	float: left;
+}
+	
+#header {
+	padding:0 !important;
+	float: right;
+}
+.log {
+	padding: 9px 24px;
+	font-size: 14px;
+}		
+.manu_header.scrolled {
+	padding-bottom: 20px;
+}	
+/******** Nav header css End here****************/	
+	
+/******** Banner css start here****************/	
+h3.banner_home_heading span {
+	font-size: 20px;
+	line-height: 24px;
+}
+.banner_home img {
+	width: 678px;
+	margin: 0 0 0 -331px;
+}
+h3.banner_home_heading span strong {
+	line-height: 20px;
+}
+.captionBox {
+	top: 15%;
+}
+.banner_home .caption {
+	padding: 0;
+	margin: 0;
+	width: auto;
+}	
+h3.banner_home_heading {
+	font-size: 14px;
+	padding-bottom: 10px;
+}
+	
+.banner_buttom {
+	padding: 7px 19px;
+	font-size: 14px;
+}	
+	
+.banner_home .caption .banner_icon {
+	width: 30px;
+	height: 30px;
+}	
+	
+/******** Banner css End here****************/		
+	
+/******** heading css start here****************/	
+h3.heading_center {
+	font-size: 20px;
+	padding-top: 26px;
+}
+h3.heading_left span {
+	font-size: 20px;
+	line-height: 26px;
+}	
+h3.heading_center::before {
+	width: 30px;
+	height: 30px;
+	background-size: 100%;
+}	
+
+h3.heading_left::before{
+	width: 30px;
+	height: 30px;
+	background-size: 100%;	
+}	
+h3.heading_left {
+	font-size: 14px;
+	padding-top: 20px;
+}	
+	
+	
+/******** heading css End here****************/		
+	
+/******** Service css start here****************/	
+	
+.servic {
+	padding: 40px 0;
+}
+.servic .service_details {
+	padding-top: 20px;
+}
+.servic .service_details ul li {
+	width: auto;
+	flex: 0 0 100%;
+	height: 172px;
+	margin-right: 10px;
+}
+.servic p {
+	font-size: 14px;
+	line-height: 27px;
+	height: auto;
+}
+.servic .service_details ul {
+	justify-content: flex-start;
+}	
+.servic .service_details ul li p {
+	height: 40px;
+}	
+/******** Service css End here****************/	
+	
+	
+	
+	
+/******** strip css start here****************/
+.strip .strip_left h3 {
+	font-size: 20px;
+	line-height: 26px;
+	margin-bottom: 20px;
+}
+.strip .strip_right li .strip_phon {
+	height: 30px;
+	width: 30px;
+}	
+.strip .strip_right li h4 {
+	font-size: 18px;
+}
+.strip .strip_right li {
+	margin-right: 20px;
+}	
+.strip .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.strip .strip_right {
+	margin-left: 0;
+}	
+/******** strip css End here****************/	
+	
+/**********   About section  css start **********/
+.about .about_strong {
+	width: 58%;
+	padding-top: 5%;
+}	
+.about .about_strong {
+	width: auto;
+	padding-top: 0;
+}
+	
+.about {
+	background: #f2f4f3 url("../images/brightencommunications_about_pic.png") no-repeat 100% 100% !important;
+	height: auto;
+	width: 100%;
+	background-image: none !important;
+	padding: 40px 0;
+}	
+.about .about_strong p {
+	font-size: 14px;
+	line-height: 27px;
+	padding: 5px 0;
+}
+/**********   About section  css End **********/
+	
+	
+/********** employment section  css Start **********/
+.employment {
+	height: auto;
+	padding: 40px 0;
+	margin-bottom: 0;
+}
+.employment .wrapper {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+	
+.employment .employment_text p {
+	font-size: 14px;
+	color: #161616;
+	padding: 6px 0;
+	line-height: 28px;
+}
+	
+.employment .employment_text p strong {
+	padding-top: 5px;
+}	
+	
+.employment .employment_pic {
+	width: auto;
+	height: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-top: 12px;
+}	
+/**********   employment section  css End **********/
+	
+	
+/***********************client section  css start***********************/	
+.client {
+	padding: 40px 0;
+}	
+.client #slider_3 li .partners_pic img {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+
+.client #slider_3 li .partners_pic .overlay h3 {
+	font-size: 14px;
+}	
+/***********************client section  css End***********************/	
+	
+	
+/**********   footer section  css start **********/	
+	
+.footer {
+    padding: 40px 0;
+}	
+	
+.footer ul {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+}
+.footer ul li:first-child {
+	margin-right: auto;
+}	
+	
+.footer ul li {
+	margin-bottom: 10px;
+	width: 100%;
+}
+.footer ul li:last-child{
+	margin-bottom: 0;
+}	
+.footer ul li ul {
+	padding-top: 8px;
+}	
+.footer ul li ul li {
+	padding: 10px 0;
+	margin-bottom: 0;
+	width: 100%;
+}
+.footer ul li .social_sec ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+}	
+.footer ul li .footer_end_text {
+	justify-content: flex-end;
+	padding-top: 0;
+}
+.footer ul li .footer_end_text p {
+	text-align: left;
+}		
+.footer ul li .social_sec{
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+}
+.footer ul li:last-child {
+	margin-bottom: 0;
+	width: 100%;
+}	
+.footer ul li h4 {
+	font-size: 20px;
+	margin-bottom: 0px;
+}	
+	
+.footer_bottom h4 {
+	font-size: 9px;
+}
+/**********   footer section  css End **********/		
+/***************************
+	Home Page End
+*****************************/	
+/***************************
+	services Page start
+*****************************/		
+/******** Banner css start here****************/	
+	
+.banner_home .caption.ceter h3 {
+	font-size: 20px;
+}
+.banner_home .captionBox.center {
+	top: 35%;
+}	
+/******** Banner css End here****************/	
+	
+/******** services css start here****************/		
+.servic h5 {
+	font-size: 14px;
+	line-height: 30px;
+}	
+.servic h5 strong{
+	display: inline-block;
+}	
+/******** services css End here****************/			
+/***************************
+	services Page End
+*****************************/
+/***************************
+	About Page start
+*****************************/		
+.about_sec {
+	padding: 40px 0;
+}
+.about_sec .wrapper {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+.about_sec .about_sec_pic {
+	width: auto;
+	height: auto;
+	flex: auto;
+	margin-right: 0;
+	overflow: hidden;
+	padding: 29px;
+	position: relative;
+	z-index: 999;
+	margin-top: 40px;
+}	
+	
+.about_bottom {
+	height: auto;
+}	
+.about_bottom p {
+	padding: 40px 0;
+	font-size: 14px;
+}	
+.about_sec .about_sec_text p {
+	padding: 7px 0 0 0;
+	color: #252525;
+	font-size: 14px;
+}	
+	
+	
+.about_sec .about_sec_pic {
+	padding: 19px;
+	margin-top: 20px;
+}	
+/***************************
+	About Page End
+*****************************/		
+/***************************
+	Employment Page start
+*****************************/	
+	
+.employment_top .wrapper {
+	flex-direction: column-reverse;
+	align-items: flex-start;
+}
+	
+.employment_top {
+	padding: 40px 0;
+	overflow: hidden;
+	background: #f6f6f6;
+}
+	
+.employment_top .employment_top_pic {
+	width: auto;
+	height: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	border-radius: 5px;
+	overflow: hidden;
+	margin-top: 30px;
+}	
+.employment_bottom p {
+	padding: 40px 0;
+	width: auto;
+	margin: 0 auto;
+	font-size: 16px;
+}	
+	
+.employment_bottom {
+	height: auto;
+}	
+	
+.employment_top .employment_top_text p {
+	padding: 10px 0 0 0;
+	font-size: 14px;
+	line-height: 30px;
+}	
+/***************************
+	Employment Page End
+*****************************/	
+	
+/***************************
+	contact us Page start
+*****************************/	
+.contact_us_box_right h3 {
+	font-size: 28px;
+}
+.contact_us_box {
+	flex-direction: column;
+	padding: 14px;
+}
+	
+.contact_us_box_left {
+	width: auto;
+	position: relative;
+}	
+	
+.contact_us_box_right {
+	width: 100%;
+	margin-left: 0;
+	margin-top: 20px;
+}	
+	
+.contact_us_box_left::after {
+	display: none;
+}	
+	
+.contact_us_top {
+	padding: 40px 0;
+}	
+	
+.contact_us_box_right h3 {
+	font-size: 20px;
+}	
+	
+.contact_us_box_left ul li:nth-child(3) {
+	width: auto;
+	float: none;
+	margin-right: 0;
+}	
+.contact_us_box_left ul li:nth-child(4) {
+	width: auto;
+	float: none;
+	margin-right: 0;
+}		
+.contact_us_box_left ul li:nth-child(5) {
+	width: auto;
+	float: none;
+	margin-right: 0;
+}
+.contact_us_box_left ul li:nth-child(6) {
+	width: auto;
+	float: none;
+	margin-right: 0;
+}	
+	
+.map iframe {
+	width: 100%;
+	height: 150px;
+	vertical-align: bottom;
+	border: none;
+}
+.contact_us_box_left .capture img {
+	width: 100%;
+}	
+/***************************
+	contact us Page End
+*****************************/		
+}
